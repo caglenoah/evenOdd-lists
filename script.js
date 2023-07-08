@@ -19,7 +19,8 @@ function handleSubmit() {
         evenList.appendChild(newListItem)
       } else {
         /*put word in odd list*/
-        oddList.appendChild(newListItem)
+      oddList.appendChild(newListItem)
+      
         }
 
     usersWord = ""
